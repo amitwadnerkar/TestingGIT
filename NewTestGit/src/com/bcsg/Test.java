@@ -5,6 +5,6 @@ public class Test {
 	public void demo()
 	{
 		
-		System.out.print("test1");
+		System.out.print("test2");
 	}
 }
