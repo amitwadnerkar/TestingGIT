@@ -6,7 +6,7 @@ public class Test2 {
 	{
 		
 		
-		System.out.print("test10 branch1, chnages added,some more added");
+		System.out.print("test2 modified");
 
 	}
 }
