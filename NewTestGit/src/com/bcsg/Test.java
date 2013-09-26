@@ -6,7 +6,7 @@ public class Test {
 	{
 		
 		
-		System.out.print("test10");
+		System.out.print("test10 branch1");
 
 	}
 }
