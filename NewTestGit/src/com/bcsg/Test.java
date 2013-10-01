@@ -6,7 +6,7 @@ public class Test {
 	{
 		
 		
-		System.out.print("Push to all branches");
+		System.out.print("First branch chnages");
 
 	}
 }
